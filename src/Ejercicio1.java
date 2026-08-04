@@ -3,7 +3,7 @@ import javax.swing.*;
 public class Ejercicio1 {
     public static void main(String[] args){
 
-        int n = Integer.parseInt(JOptionPane.showInputDialog("Ingrese la cantidad de numeros que desea"));
+        int n = Integer.parseInt(JOptionPane.showInputDialog("Ingrese una cantidad de numeros deseada"));
 
         int [] numero =new int[n];
 
